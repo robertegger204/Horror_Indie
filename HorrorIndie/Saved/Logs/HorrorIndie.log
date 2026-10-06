@@ -2420,3 +2420,17 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.06-22.03.52:059][ 56]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 689.304382
 [2026.10.06-22.03.53:059][ 59]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.06-22.03.53:059][ 59]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 689.971130, Update Interval: 339.456787
+[2026.10.06-22.05.48:659][453]Cmd: DELETE
+[2026.10.06-22.05.48:659][453]Cmd: ACTOR DELETE
+[2026.10.06-22.05.48:669][453]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.10.06-22.05.48:734][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.10.06-22.05.48:737][453]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2026.10.06-22.05.53:117][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.10.06-22.05.54:672][591]LogSlate: Window 'Save Content' being destroyed
+[2026.10.06-22.05.54:910][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.06-22.05.55:247][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.10.06-22.05.55:269][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.10.06-22.05.55:287][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.10.06-22.05.55:821][591]SourceControl: Error: Updated 0 paths from the index
+[2026.10.06-22.05.56:071][591]SourceControl: rm 'HorrorIndie/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/1X/SN5R6LIXKDO3W51X1TVUTZ.uasset'
+[2026.10.06-22.05.56:156][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.24 sec
