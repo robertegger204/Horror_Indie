@@ -2417,3 +2417,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.06-22.01.11:224][220]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.8/Engine/Plugins/AudioModulationInsights/Content: 'C:/Program Files/Epic Games/UE_5.8/Engine/Plugins/AudioModulationInsights/Content' is outside repository at 'C:/Users/egger/Documents/GitHub/Horror_Indie'
 [2026.10.06-22.01.11:224][220]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.8/Engine/Plugins/AudioInsights/Content: 'C:/Program Files/Epic Games/UE_5.8/Engine/Plugins/AudioInsights/Content' is outside repository at 'C:/Users/egger/Documents/GitHub/Horror_Indie'
 [2026.10.06-22.01.11:320][220]EditorErrors: Warning: No assets to check in!
+[2026.10.06-22.03.52:059][ 56]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 689.304382
+[2026.10.06-22.03.53:059][ 59]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.06-22.03.53:059][ 59]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 689.971130, Update Interval: 339.456787
