@@ -2420,6 +2420,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.06-22.03.52:059][ 56]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 689.304382
 [2026.10.06-22.03.53:059][ 59]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.06-22.03.53:059][ 59]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 689.971130, Update Interval: 339.456787
+<<<<<<< Updated upstream
 [2026.10.06-22.05.48:659][453]Cmd: DELETE
 [2026.10.06-22.05.48:659][453]Cmd: ACTOR DELETE
 [2026.10.06-22.05.48:669][453]LogEditorActor: Deleted Actor: StaticMeshActor
@@ -2539,3 +2540,5 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.06-22.17.57:484][422]LogD3D12RHI: ~FD3D12DynamicRHI
 [2026.10.06-22.17.57:511][422]LogExit: Exiting.
 [2026.10.06-22.17.57:534][422]Log file closed, 10/06/26 17:17:57
+=======
+>>>>>>> Stashed changes
